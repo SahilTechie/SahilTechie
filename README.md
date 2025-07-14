@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SahilTechie (Software Enginner0
+- 👋 Hi, I’m @SahilTechie (Software Engineer)
 - 👀 I’m interested in Business Development...
-- 🌱 I’m currently learning development: MERN stack (MongoDB, Express.js, React, Node.js); DSA: intermediate-level data structures and algorithms; and trading: forex strategies, algorithmic trading, technical analysis.
+- 🌱 I’m currently learning MERN stack development:(MongoDB, Express.js, React.js, Node.js)..
 - 💞️ I’m looking to collaborate on projects related to software development, particularly MERN stack applications, as well as trading strategies, algorithmic trading, and data analysis, with a focus on institutions like BlackRock and JP Morgan
 - 📫 How to reach me You can email me at [smallelw@gitam.in], or connect with me on LinkedIn at [www.linkedin.com/in/sahil-mallelwar-439082325]. For more direct communication, feel free to message me on [WhatsApp] at [8767510876}."
 - 😄 Pronouns: He/Him
