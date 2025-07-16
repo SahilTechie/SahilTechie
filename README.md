@@ -9,42 +9,41 @@
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+### 🚀 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Final+Year+B.Tech+CSE+Student;Passionate+about+AI%2FML+and+Startup+Ideas;MERN+Stack+%7C+Java+%7C+Python+%7C+Full+Stack+Developer" alt="Typing SVG" />
-</p>
-
-<ul>
-  <li>🎓 <b>Final year B.Tech CSE student</b></li>
-  <li>💡 Passionate about building scalable web applications & exploring AI/ML</li>
-  <li>👨‍💻 Focused on MERN stack, Java, Python & real-world problem solving</li>
-  <li>📦 Entrepreneurial mindset with a passion for startups</li>
-  <li>🤝 Open to internships, collaborations & exciting projects</li>
-</ul>
+- 🎓 Final year B.Tech CSE student  
+- 💡 Passionate about building scalable web applications & exploring AI/ML  
+- 👨‍💻 Focused on MERN stack, Java, Python & real-world problem solving  
+- 💼 Entrepreneurial mindset with a passion for startups  
+- 🤝 Open to internships, collaborations & exciting projects
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,cpp,python,java,html,css,react,nodejs,express,mongodb,mysql,tailwind,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,cpp,python,java,html,css,react,nodejs,express,mongodb,mysql,tailwind,git,github,vscode" />
 </p>
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sahil-mallelwar-439082325" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:smallelw@gitam.in" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-smallelw@gitam.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://mail.google.com/mail/?view=cm&to=smallelw@gitam.in" target="_blank">
+    <img src="https://img.shields.io/badge/-smallelw@gitam.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aleen42/PersonalWiki/master/images/gif/email.gif" width="20" />
-  <b>Email:</b> <a href="mailto:smallelw@gitam.in">smallelw@gitam.in</a>
+  📧 Email: <a href="mailto:smallelw@gitam.in">smallelw@gitam.in</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer" />
 </p>
