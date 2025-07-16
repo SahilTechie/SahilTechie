@@ -27,20 +27,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithSahil&show_icons=true&theme=tokyonight&hide_border=true" alt="Sahil's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithSahil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithSahil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeWithSahil&theme=tokyonight" alt="GitHub Profile Summary" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
