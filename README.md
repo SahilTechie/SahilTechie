@@ -42,8 +42,6 @@
   📧 Email: <a href="mailto:smallelw@gitam.in">smallelw@gitam.in</a>
 </p>
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer" />
 </p>
