@@ -1,44 +1,96 @@
-<!-- Waving Banner -->
+<!-- 🌟 Lively HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Hi,%20I'm%20Sahil%20👋&fontSize=40&fontAlignY=40&desc=Software%20Developer%20%7C%20MERN%20%7C%20Java%20%7C%20Python%20%7C%20AI/ML&descSize=20&descAlignY=60&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Hey%20there!%20I'm%20SahilTechie%20🚀&fontSize=42&fontAlignY=40&desc=Full-Stack%20Dev%20%7C%20B.Tech%20CSBS%20%7C%20Final%20Year&descSize=20&descAlignY=65&animation=fadeIn&theme=radical" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Final+Year+B.Tech+CSE+Student;MERN+Stack+%7C+Java+%7C+Python+%7C+AI/ML;Entrepreneur+%7C+Full-Stack+Developer" alt="Typing SVG" />
+  <p align="center">
+  <img src="https://img.shields.io/badge/Building%20My%20Way%20Into%20Tech-🚀-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Badge: Building My Way Into Tech 🚀">
 </p>
-
----
-
-### 🚀 About Me
-
-- 🎓 Final year B.Tech CSE student  
-- 💡 Passionate about building scalable web applications & exploring AI/ML  
-- 👨‍💻 Focused on MERN stack, Java, Python & real-world problem solving  
-- 💼 Entrepreneurial mindset with a passion for startups  
-- 🤝 Open to internships, collaborations & exciting projects
-
----
-
-### 🛠 Tech Stack
-
+</p>
+<!-- 🧑 GIF AVATAR -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,cpp,python,java,html,css,react,nodejs,express,mongodb,mysql,tailwind,git,github,vscode" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" height="300" alt="Developer Avatar" />
+</p>
+<h2 align="center">🚀 Welcome to My GitHub Profile</h2>
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Aspiring+Software+Engineer;MERN+Stack+%26+Android+Developer;Passionate+About+AI-Driven+Solutions" alt="Typing animation" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 👨‍💻 About Me
+
+- 🎓 Final Year B.Tech CSBS student at GITAM University  
+- 💻 MERN stack enthusiast focused on clean, scalable web apps  
+- 🌱 Learning DSA, System Design, and Cloud integration  
+- 🤝 Team player with hands-on project and internship experience  
+- 📫 Reach me at: **smallelw@gitam.in**
+
+---
+
+## 🔧 Currently Working On
+
+- 🛠 Personal portfolio (React + Tailwind)  
+- 🤖 NLP-based upgrades for CivicAI  
+- 📱 Android app dev (Kotlin) – Google Internship  
+- ☁️ AWS Data Engineering (ETL pipelines)  
+- 💡 Upskilling with TypeScript & Next.js
+
+---
+
+## 🏆 Achievements & Highlights
+
+- 🥇 Runner up @ CodeBeat Hackathon – CivicAI  
+- 📱 Android Dev Intern – Google (Jan–Mar 2025)  
+- ☁️ AWS Data Engg Intern – AWS Academy (Apr–Jun 2025)  
+- 📜 Certified in:
+  - MERN Workshop @ BITS Pilani  
+  - Design Thinking  
+  - AIIP Full-Stack Skill Test  
+- 💻 Projects: Razorpay clone, CampusResolvePortal
+
+---
+
+## 💻 Tech Stack
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sahil-mallelwar-439082325" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,mongodb,mysql,github,vscode,figma&perline=7" alt="Tech Stack" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| 🚀 Project | 📝 Description | 🧩 Tech Stack |
+|-----------|----------------|---------------|
+| **CivicAI** | AI-based public grievance redressal portal with intelligent spam filtering | MERN, Flask, AI |
+| **BINGE-IT** | Online movie ticket booking system with seat selection and payment | HTML, CSS, JS |
+
+🔎 More projects → [View All Repositories](https://github.com/CodeWithUtkarsha?tab=repositories)
+
+---
+
+## 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/utkarsha-salve-253b95259/" target="_blank" title="Connect on LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=smallelw@gitam.in" target="_blank">
-    <img src="https://img.shields.io/badge/-smallelw@gitam.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:utkarshasalve90@gmail.com" target="_blank" title="Say hi on Gmail">
+    <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" width="40" height="40" alt="Gmail" />
   </a>
 </p>
 
+---
+
+>  *“Ready when you are😊”*
+
 <p align="center">
-  📧 Email: <a href="mailto:smallelw@gitam.in">smallelw@gitam.in</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" />
 </p>
 
+change Featured Projects names to
+ Razorpay Landing Page 
+DevDetective 
+Modern Chair Product Page
