@@ -47,7 +47,6 @@
   - MERN Workshop @ BITS Pilani  
   - Design Thinking  
   - AIIP Full-Stack Skill Test  
-- 💻 Projects: Razorpay clone, CampusResolvePortal
 
 ---
 
