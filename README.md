@@ -63,21 +63,21 @@
 
 | 🚀 Project | 📝 Description | 🧩 Tech Stack |
 |-----------|----------------|---------------|
-| **CivicAI** | AI-based public grievance redressal portal with intelligent spam filtering | MERN, Flask, AI |
-| **BINGE-IT** | Online movie ticket booking system with seat selection and payment | HTML, CSS, JS |
+| **CampusResolvePortal** | AI-based public grievance redressal portal with intelligent spam filtering | MERN, Flask, AI |
+| **Razorpay Clone** | Online movie ticket booking system with seat selection and payment | HTML, CSS, JS |
 
-🔎 More projects → [View All Repositories](https://github.com/CodeWithUtkarsha?tab=repositories)
+🔎 More projects → [View All Repositories](https://github.com/SahilTechie?tab=repositories)
 
 ---
 
 ## 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/utkarsha-salve-253b95259/" target="_blank" title="Connect on LinkedIn">
+  <a href="https://linkedin.com/in/sahil-mallelwar-439082325/" target="_blank" title="Connect on LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:utkarshasalve90@gmail.com" target="_blank" title="Say hi on Gmail">
+  <a href="mailto:sahilmallelwar15@gmail.com" target="_blank" title="Say hi on Gmail">
     <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" width="40" height="40" alt="Gmail" />
   </a>
 </p>
